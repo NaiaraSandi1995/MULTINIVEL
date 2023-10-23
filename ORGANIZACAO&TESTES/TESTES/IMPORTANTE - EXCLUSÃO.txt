@@ -1,0 +1,7 @@
+IMPORTANTE - EXCLUSÃO
+
+Para que o teste multinível seja rodado não pode ter casos vazios no variável dependete e nem na independente
+
+
+
+DE TODA FORMA OS PRÓPRIOS MODELOS DE REGRESSÃO EXCLUEM OS CASOS EM BRANCO
